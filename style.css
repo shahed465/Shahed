@@ -35,7 +35,7 @@ display: grid;
 .name h2{
 color: white;
 margin-top: 20px;
-margin-left: 140px;
+margin-left: 120px;
 text-transform: uppercase;
 font-family: arial black;
 
@@ -43,7 +43,7 @@ font-family: arial black;
 .work h3{
     font-size: 15px;
 margin-top: 8px;
-margin-left:150px;
+margin-left:142px;
 font-family: arial black;
 color: white;
 text-transform: uppercase;
